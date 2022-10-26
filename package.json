@@ -1,0 +1,23 @@
+{
+  "name": "jibber",
+  "version": "0.1.0",
+  "description": "## A simple chat application (under construction)",
+  "main": "index.js",
+  "scripts": {
+    "ts": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/catarract/Jibber.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/catarract/Jibber/issues"
+  },
+  "homepage": "https://github.com/catarract/Jibber#readme",
+  "devDependencies": {
+    "typescript": "4.8.4"
+  }
+}
